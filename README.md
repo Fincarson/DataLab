@@ -30,7 +30,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <br>
 
 ### 🌸 Spring 2026
-**Syllabus: ** [Link](https://docs.google.com/spreadsheets/d/1dqgKE50ZhEOwN71ou4UWuvbCIewbureH3iDBqUHVZDY/edit?gid=0#gid=0)
+**Syllabus**: [Link](https://docs.google.com/spreadsheets/d/1dqgKE50ZhEOwN71ou4UWuvbCIewbureH3iDBqUHVZDY/edit?gid=0#gid=0)
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
 | Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
