@@ -31,7 +31,7 @@
 [SS_GitLab_Lab_2024_Lab03]: https://shwu10.cs.nthu.edu.tw/syteng/lab-flutter-basics-dart-expense-tracker
 [SS_GitLab_Lab_2024_Lab04]: https://shwu10.cs.nthu.edu.tw/syteng/lab-flutter-basics-dart-expense-tracker-parallax
 [SS_GitLab_Lab_2024_Lab05]: https://shwu10.cs.nthu.edu.tw/syteng/lab-flutter-basics-dart-openai-api
-[SS_GitLab_Lab_2024_Lab06]: https://shwu10.cs.nthu.edu.tw/syteng/lab-flutter-basics-dart-meals-app
+[SS_GitLab_Lab_2024_Lab07]: https://shwu10.cs.nthu.edu.tw/syteng/lab-flutter-basics-dart-meals-app
 
 
 [SS_Example_2024_Lab01]: Software_Studio/Examples/2024_Spring/Lab01_Example_Flutter_Basics_Dart_Roll_Dice_App
