@@ -1,0 +1,14 @@
+# Maven build directory
+target/
+
+# Eclipse helper directories
+.settings/
+.metadata/
+.classpath
+.project
+
+# VScode helper directories
+.vscode
+
+# macOS specific files  #
+.DS_Store

@@ -32,10 +32,10 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2026
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | 🎯 Topics             | 📄 Examples                                                               | 💻 Labs                                                           | ✅ Solutions                       |
+| Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
-| 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | -                                  |
-| 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01]                                      | [Download][SS_Solution_2025_Lab01] |
+| 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
+| 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01]                                      | [Download][SS_Solution_2026_Lab01] |
 
 ---
 
@@ -45,7 +45,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2025
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | 🎯 Topics             | 📄 Examples                                                               | 💻 Labs                                                           | ✅ Solutions                       |
+| Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                  |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | -                                  |
@@ -64,7 +64,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2024
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | 🎯 Topics             | 📄 Examples                                                               | 💻 Labs                                                           | ✅ Solutions                       |
+| Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Dowbload][SS_Solution_2024_Lab01] |
@@ -83,11 +83,12 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 
 <!-- Spring 2026 -->
 <!-- Solutions -->
-[SS_Solution_2025_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab01_Flutter_Basics_Dart_Roll_Dice_App.zip
+[SS_Solution_2026_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab00_Solution_Submission_Exercise.zip
+[SS_Solution_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App.zip
 
 <!-- Labs -->
-[SS_Lab_2026_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab00_Submission_Exercise.zip
-[SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Flutter_Basics_Dart_Roll_Dice.zip
+[SS_Lab_2026_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab00_Lab_Submission_Exercise.zip
+[SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice.zip
 
 [SS_GitLab_Lab_2026_Lab00]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/submission-exercise
 
@@ -100,7 +101,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 
 <!-- Spring 2025 -->
 <!-- Labs -->
-[SS_Lab_2025_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2025/Lab00_Practice_Submission.zip
+[SS_Lab_2025_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2025/Lab00_Lab_Practice_Submission.zip
 
 [SS_GitLab_Lab_2025_Lab00]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2025-ss/submission-exercise
 
@@ -126,8 +127,8 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 
 <!-- Spring 2024 -->
 <!-- Solutions -->
-[SS_Solution_2024_Lab00]: Software_Studio/Solutions/Spring_2024/Lab00_Solution_Submission_Exercise
-[SS_Solution_2024_Lab01]: Software_Studio/Solutions/Spring_2024/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App
+[SS_Solution_2024_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab00_Solution_Submission_Exercise.zip
+[SS_Solution_2024_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App.zip
 
 
 <!-- Labs -->
