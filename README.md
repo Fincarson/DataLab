@@ -34,7 +34,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
 | Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
+|------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01]                                      | [Download][SS_Solution_2026_Lab01] |
 
@@ -47,7 +47,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
 | Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
+|------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                  |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | -                                  |
 | 02. Quiz App                 | -                     | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | -                                  |
@@ -66,7 +66,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
 | Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
+|------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Download][SS_Solution_2024_Lab01] |
 | 02. Quiz App                 | -                     | [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | -                                  |
