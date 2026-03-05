@@ -1,4 +1,4 @@
-# 🦊 GitLab NTHU - 吳尚鴻
+# 🦊 GitLab NTHU: 吳尚鴻 Wu, Shan-Hung
 <p>
   <a href="https://shwu10.cs.nthu.edu.tw/courses">
     <img src="00_Miscellaneous/Images/GitLab.webp" width="850" alt="GitLab">
