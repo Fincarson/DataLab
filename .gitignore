@@ -6,7 +6,6 @@
 **/build/
 
 # ==== Android build junk ====
-**/android/.gradle/
 **/android/**/.cxx/
 **/android/**/captures/
 **/android/local.properties
