@@ -52,7 +52,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Solution_2024_Lab01]: Software_Studio/Labs_Solutions/Spring_2024/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App
 
 
-[SS_Lab_2024_Lab00]: Software_Studio/Labs/Spring_2024/Lab00_Lab_Submission_Exercise.zip
+[SS_Lab_2024_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab00_Lab_Submission_Exercise.zip
 [SS_Lab_2024_Lab01]: Software_Studio/Labs/Spring_2024/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice.zip
 [SS_Lab_2024_Lab02]: Software_Studio/Labs/Spring_2024/Lab02_Lab_Flutter_Basics_Dart_Quiz.zip
 [SS_Lab_2024_Lab03]: Software_Studio/Labs/Spring_2024/Lab03_Lab_Flutter_Basics_Dart_Expense_Tracker
