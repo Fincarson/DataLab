@@ -1,0 +1,28 @@
+# ==== Flutter / Dart ====
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/build/
+
+# ==== Android build junk ====
+**/android/.gradle/
+**/android/**/.cxx/
+**/android/**/captures/
+**/android/local.properties
+
+# ==== iOS/macOS build junk ====
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+**/macos/Pods/
+**/macos/Flutter/ephemeral/
+
+# ==== IDEs ====
+**/.idea/
+**/*.iml
+**/.vscode/
+
+# ==== OS ====
+Thumbs.db
+.DS_Store
