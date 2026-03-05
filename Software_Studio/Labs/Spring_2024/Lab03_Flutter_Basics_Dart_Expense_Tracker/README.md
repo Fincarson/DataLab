@@ -20,30 +20,30 @@ In this lab course, you will be tasked with implementing **three functions** tha
 The first part is to implement the **chart**, described as follows:
 
 <br>( 40% )<br> 
-<br>![component](img/step 1.png)<br> 
+<br>![component](<img/step 1.png>)<br> 
 
 After entering values from the form, the chart will display the difference in bar heights between each category, reflecting the proportion of each item's total amount.
 
-<br>![component](img/step 2.png)<br>  
+<br>![component](<img/step 2.png>)<br>  
 
 
 The second part is to implement the **form**, described as follows:
 
 The Invalid Input warning displayed in the sample program is as follows. 
-<br>![component](img/step 3_1.png)<br> 
+<br>![component](<img/step 3_1.png>)<br> 
 
 <br>( 30% )<br> 
 Now, you need to modify it to utilize a Form to implement this area and display the warning below each text field as shown below.
-<br>![component](img/step 3_2.png)<br> 
+<br>![component](<img/step 3_2.png>)<br> 
 
 The third part is to implement the **Customized Theme**, described as follows:
 
-<br>![component](img/step 4_1.png)<br> 
+<br>![component](<img/step 4_1.png>)<br> 
 
 <br>( 30% )<br> 
 Utilize the Material Theme Builder (select "Customize" in the theme design tool mentioned in the course) to configure the theme and dark theme (with a free choice of colors) for your application theme.
 
-<br>![component](img/step 4_2.png)<br> 
+<br>![component](<img/step 4_2.png>)<br> 
 
 ## Deadline
 Submit your work before 2024/03/14 (Thur.) 17:20:00.

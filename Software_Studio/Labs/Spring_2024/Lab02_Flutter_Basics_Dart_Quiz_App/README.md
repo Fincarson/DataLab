@@ -5,20 +5,20 @@ During this lab session, you will address **two bugs** in the quiz application d
 The first part is to **resolve the error** that occurred during the **initial round**, described as follows:
 
 <br>( 20% )<br> 
-<br>![component](img/step 1.png)<br> 
+<br>![component](<img/step 1.png>)<br> 
 
 During the **subsequent round** of troubleshooting, an error, illustrated in the figure below, is expected to manifest:
 
 <br>( 20% )<br> 
-<br>![component](img/step 2.png)<br> 
+<br>![component](<img/step 2.png>)<br> 
 
 
 <br>( 60% )<br> 
 
 The second part is to **enhance the appearance of the ResultsScreen**. A comparison between the **original screen** and the **desired outcome** is provided:
 
-<br>![component](img/step 3_1.png)<br> 
-<br>![component](img/step 3_2.png)<br> 
+<br>![component](<img/step 3_1.png>)<br> 
+<br>![component](<img/step 3_2.png>)<br> 
 
 Adjustments include 
 
