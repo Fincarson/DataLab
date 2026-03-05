@@ -32,7 +32,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2026
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | Topics                | Examples                                                                   | Labs                                                               | Solutions                          |
+| Names                        | 🎯 Topics             | 📄 Examples                                                               | 💻 Labs                                                           | ✅ Solutions                       |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | -                                                                  | -                                  |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01]                                      | [Download][SS_Solution_2025_Lab01] |
@@ -45,7 +45,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2025
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | Topics                | Examples                                                                   | Labs                                                               | Solutions                          |
+| Names                        | 🎯 Topics             | 📄 Examples                                                               | 💻 Labs                                                           | ✅ Solutions                       |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | -                                                                  | -                                  |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | -                                  |
@@ -64,7 +64,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2024
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | Topics                | Examples                                                                   | Labs                                                               | Solutions                          |
+| Names                        | 🎯 Topics             | 📄 Examples                                                               | 💻 Labs                                                           | ✅ Solutions                       |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Dowbload][SS_Solution_2024_Lab01] |
@@ -86,7 +86,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Solution_2025_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab01_Flutter_Basics_Dart_Roll_Dice_App.zip
 
 <!-- Labs -->
-[SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice.zip
+[SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Flutter_Basics_Dart_Roll_Dice.zip
 
 <!-- Examples -->
 [SS_Example_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab01_Example_Flutter_Basics_Dart_Roll_Dice_App.zip
@@ -126,7 +126,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Lab_2024_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice.zip
 [SS_Lab_2024_Lab02]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab02_Lab_Flutter_Basics_Dart_Quiz.zip
 [SS_Lab_2024_Lab03]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab03_Lab_Flutter_Basics_Dart_Expense_Tracker.zip
-[SS_Lab_2024_Lab04]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab04_Lab_Flutter_Basics_Dart_Expense_Tracker_Parallax
+[SS_Lab_2024_Lab04]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab04_Lab_Flutter_Basics_Dart_Expense_Tracker_Parallax.zip
 [SS_Lab_2024_Lab05]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab05_Lab_Flutter_Basics_Dart_OpenAI_API.zip
 [SS_Lab_2024_Lab07]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2024/Lab07_Lab_Flutter_Basics_Dart_Meals_App.zip
 
