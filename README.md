@@ -34,7 +34,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 
 | Names                        | Topics                | Examples                                                                   | Labs                                                               | Solutions                          |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|:------------------------------------------------------------------:|:----------------------------------:|
-| 00. Submission Exercise      | Git                   | -                                                                          | -                                                                  | [Download][SS_Solution_2025_Lab00] |
+| 00. Submission Exercise      | Git                   | -                                                                          | -                                                                  | -                                  |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | -                                  |
 | 02. Quiz App                 | -                     | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | -                                  |
 | 03. Expense Tracker          | -                     | [Download][SS_Example_2025_Lab03] ([GitLab][SS_GitLab_Example_2025_Lab03]) | -                                                                  | -                                  |
@@ -68,6 +68,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 </details>
 <br>
 <!-- Spring 2025 -->
+
 <!-- Examples -->
 [SS_Example_2025_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Examples/Spring_2025/Lab01_Example_Flutter_Basics_Dart_Roll_Dice_App.zip
 [SS_Example_2025_Lab02]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Examples/Spring_2025/Lab02_Example_Flutter_Basics_Dart_Quiz_App.zip
