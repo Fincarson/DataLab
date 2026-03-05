@@ -1,0 +1,59 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_app/data/dummy_data.dart';
+import 'package:flutter_app/models/meal.dart';
+import 'package:flutter_app/services/navigation.dart';
+import 'package:flutter_app/state/filters_notifier.dart';
+import 'package:flutter_app/widgets/meals.dart';
+import 'package:provider/provider.dart';
+
+class MealsPage extends StatelessWidget {
+  const MealsPage({
+    super.key,
+    required this.categoryId,
+  });
+
+  final String categoryId;
+
+  void _selectMeal(BuildContext context, Meal meal) {
+    final nav = Provider.of<NavigationService>(context, listen: false);
+    nav.goMealDetailsOnCategory(categoryId: categoryId, mealId: meal.id);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final category = dummyCategories[categoryId]!;
+    List<Meal> allMeals = Provider.of<List<Meal>>(context);
+    Map<Filter, bool> activeFilters =
+        Provider.of<FiltersNotifier>(context).filters;
+
+    //todo:  get filteredMeals from a provider    
+    List<Meal> filteredMeals = allMeals.where((meal) {
+      if (activeFilters[Filter.glutenFree]! && !meal.isGlutenFree) {
+        return false;
+      }
+      if (activeFilters[Filter.lactoseFree]! && !meal.isLactoseFree) {
+        return false;
+      }
+      if (activeFilters[Filter.vegetarian]! && !meal.isVegetarian) {
+        return false;
+      }
+      if (activeFilters[Filter.vegan]! && !meal.isVegan) {
+        return false;
+      }
+      return true;
+    }).toList();
+    final meals = filteredMeals
+        .where((meal) => meal.categories.contains(category.id))
+        .toList();
+
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(category.title),
+      ),
+      body: Meals(
+        meals: meals,
+        onSelectMeal: _selectMeal,
+      ),
+    );
+  }
+}
