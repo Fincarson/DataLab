@@ -69,7 +69,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 |------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
 | 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Download][SS_Solution_2024_Lab01] |
-| 02. Quiz App                 | -                     | [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | -                                  |
+| 02. Quiz App                 | -                     | [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | [Download][SS_Solution_2024_Lab02] |
 | 03. Expense Tracker          | -                     | [Download][SS_Example_2024_Lab03] ([GitLab][SS_GitLab_Example_2024_Lab03]) | [Download][SS_Lab_2024_Lab03] ([GitLab][SS_GitLab_Lab_2024_Lab03]) | -                                  |
 | 04. Expense Tracker Parallax | -                     | [Download][SS_Example_2024_Lab04] ([GitLab][SS_GitLab_Example_2024_Lab04]) | [Download][SS_Lab_2024_Lab04] ([GitLab][SS_GitLab_Lab_2024_Lab04]) | -                                  |
 | 05. OpenAI API               | -                     | [Download][SS_Example_2024_Lab05] ([GitLab][SS_GitLab_Example_2024_Lab05]) | [Download][SS_Lab_2024_Lab05] ([GitLab][SS_GitLab_Lab_2024_Lab05]) | -                                  |
@@ -130,6 +130,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <!-- Solutions -->
 [SS_Solution_2024_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab00_Solution_Submission_Exercise.zip
 [SS_Solution_2024_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App.zip
+[SS_Solution_2024_Lab02]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab02_Solution_Flutter_Basics_Dart_Quiz_App.zip
 
 
 <!-- Labs -->
