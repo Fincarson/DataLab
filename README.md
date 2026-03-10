@@ -33,10 +33,10 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 **Syllabus**: [Link](https://docs.google.com/spreadsheets/d/1dqgKE50ZhEOwN71ou4UWuvbCIewbureH3iDBqUHVZDY/edit?gid=0#gid=0)
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
-| 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
-| 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01]                                      | [Download][SS_Solution_2026_Lab01] |
+| Names                        | 🎯 Topics            | 📄 Examples                                                                   | 💻 Labs                                                               | ✅ Solutions                          |
+|------------------------------|-----------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------|:-------------------------------------:|
+| 00. Submission Exercise      | Git Tutorial          | -                                                                             | 📥 [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | 📥 [Download][SS_Solution_2026_Lab00] |
+| 01. Roll Dice App            | Stateless Vs Stateful | 📥 [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | 📥 [Download][SS_Lab_2026_Lab01] ([GitLab][SS_GitLab_Lab_2026_Lab01]) | 📥 [Download][SS_Solution_2026_Lab01] |
 
 ---
 
@@ -46,16 +46,16 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2025
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
-| 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                  |
-| 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | -                                  |
-| 02. Quiz App                 | -                     | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | -                                  |
-| 03. Expense Tracker          | -                     | [Download][SS_Example_2025_Lab03] ([GitLab][SS_GitLab_Example_2025_Lab03]) | -                                                                  | -                                  |
-| 04. Genkit Recipe App        | -                     | [Download][SS_Example_2025_Lab04] ([GitLab][SS_GitLab_Example_2025_Lab04]) | -                                                                  | -                                  |
-| 05. Expense Tracker Parallex | -                     | [Download][SS_Example_2025_Lab05] ([GitLab][SS_GitLab_Example_2025_Lab05]) | -                                                                  | -                                  |
-| 07. Meals App                | -                     | [Download][SS_Example_2025_Lab07] ([GitLab][SS_GitLab_Example_2025_Lab07]) | -                                                                  | -                                  |
-| 09. Group Todo List          | -                     | [Download][SS_Example_2025_Lab09] ([GitLab][SS_GitLab_Example_2025_Lab09]) | -                                                                  | -                                  |
+| Names                        | 🎯 Topics            | 📄 Examples                                                                   | 💻 Labs                                                               | ✅ Solutions                          |
+|------------------------------|-----------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------|:-------------------------------------:|
+| 00. Submission Exercise      | Git Tutorial          | -                                                                             | 📥 [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                     |
+| 01. Roll Dice App            | Stateless Vs Stateful | 📥 [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                     | 📥 [Download][SS_Solution_2025_Lab01] |
+| 02. Quiz App                 | -                     | 📥 [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                     | -                                     |
+| 03. Expense Tracker          | -                     | 📥 [Download][SS_Example_2025_Lab03] ([GitLab][SS_GitLab_Example_2025_Lab03]) | -                                                                     | -                                     |
+| 04. Genkit Recipe App        | -                     | 📥 [Download][SS_Example_2025_Lab04] ([GitLab][SS_GitLab_Example_2025_Lab04]) | -                                                                     | -                                     |
+| 05. Expense Tracker Parallex | -                     | 📥 [Download][SS_Example_2025_Lab05] ([GitLab][SS_GitLab_Example_2025_Lab05]) | -                                                                     | -                                     |
+| 07. Meals App                | -                     | 📥 [Download][SS_Example_2025_Lab07] ([GitLab][SS_GitLab_Example_2025_Lab07]) | -                                                                     | -                                     |
+| 09. Group Todo List          | -                     | 📥 [Download][SS_Example_2025_Lab09] ([GitLab][SS_GitLab_Example_2025_Lab09]) | -                                                                     | -                                     |
 
 ---
 
@@ -65,17 +65,17 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2024
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
-| 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
-| 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Download][SS_Solution_2024_Lab01] |
-| 02. Quiz App                 | -                     | [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | [Download][SS_Solution_2024_Lab02] |
-| 03. Expense Tracker          | -                     | [Download][SS_Example_2024_Lab03] ([GitLab][SS_GitLab_Example_2024_Lab03]) | [Download][SS_Lab_2024_Lab03] ([GitLab][SS_GitLab_Lab_2024_Lab03]) | -                                  |
-| 04. Expense Tracker Parallax | -                     | [Download][SS_Example_2024_Lab04] ([GitLab][SS_GitLab_Example_2024_Lab04]) | [Download][SS_Lab_2024_Lab04] ([GitLab][SS_GitLab_Lab_2024_Lab04]) | -                                  |
-| 05. OpenAI API               | -                     | [Download][SS_Example_2024_Lab05] ([GitLab][SS_GitLab_Example_2024_Lab05]) | [Download][SS_Lab_2024_Lab05] ([GitLab][SS_GitLab_Lab_2024_Lab05]) | -                                  |
-| 07. Meals App                | -                     | [Download][SS_Example_2024_Lab07] ([GitLab][SS_GitLab_Example_2024_Lab07]) | [Download][SS_Lab_2024_Lab07] ([GitLab][SS_GitLab_Lab_2024_Lab07]) | -                                  |
-| 08. Meals App Animation      | -                     | [Download][SS_Example_2024_Lab08] ([GitLab][SS_GitLab_Example_2024_Lab08]) | -                                                                  | -                                  |
-| 09. Group Todo List          | -                     | [Download][SS_Example_2024_Lab09] ([GitLab][SS_GitLab_Example_2024_Lab09]) | -                                                                  | -                                  |
+| Names                        | 🎯 Topics            | 📄 Examples                                                                   | 💻 Labs                                                               | ✅ Solutions                          |
+|------------------------------|-----------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------|:-------------------------------------:|
+| 00. Submission Exercise      | Git Tutorial          | -                                                                             | 📥 [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | 📥 [Download][SS_Solution_2024_Lab00] |
+| 01. Roll Dice App            | Stateless Vs Stateful | 📥 [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | 📥 [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | 📥 [Download][SS_Solution_2024_Lab01] |
+| 02. Quiz App                 | -                     | 📥 [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | 📥 [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | 📥 [Download][SS_Solution_2024_Lab02] |
+| 03. Expense Tracker          | -                     | 📥 [Download][SS_Example_2024_Lab03] ([GitLab][SS_GitLab_Example_2024_Lab03]) | 📥 [Download][SS_Lab_2024_Lab03] ([GitLab][SS_GitLab_Lab_2024_Lab03]) | -                                     |
+| 04. Expense Tracker Parallax | -                     | 📥 [Download][SS_Example_2024_Lab04] ([GitLab][SS_GitLab_Example_2024_Lab04]) | 📥 [Download][SS_Lab_2024_Lab04] ([GitLab][SS_GitLab_Lab_2024_Lab04]) | -                                     |
+| 05. OpenAI API               | -                     | 📥 [Download][SS_Example_2024_Lab05] ([GitLab][SS_GitLab_Example_2024_Lab05]) | 📥 [Download][SS_Lab_2024_Lab05] ([GitLab][SS_GitLab_Lab_2024_Lab05]) | -                                     |
+| 07. Meals App                | -                     | 📥 [Download][SS_Example_2024_Lab07] ([GitLab][SS_GitLab_Example_2024_Lab07]) | 📥 [Download][SS_Lab_2024_Lab07] ([GitLab][SS_GitLab_Lab_2024_Lab07]) | -                                     |
+| 08. Meals App Animation      | -                     | 📥 [Download][SS_Example_2024_Lab08] ([GitLab][SS_GitLab_Example_2024_Lab08]) | -                                                                     | -                                      |
+| 09. Group Todo List          | -                     | 📥 [Download][SS_Example_2024_Lab09] ([GitLab][SS_GitLab_Example_2024_Lab09]) | -                                                                     | -                                      |
 
 ---
 
@@ -92,6 +92,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice_App.zip
 
 [SS_GitLab_Lab_2026_Lab00]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/submission-exercise
+[SS_GitLab_Lab_2026_Lab01]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-roll-dice-app
 
 <!-- Examples -->
 [SS_Example_2026_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab01_Example_Flutter_Basics_Dart_Roll_Dice_App.zip
@@ -101,6 +102,9 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 
 
 <!-- Spring 2025 -->
+<!-- Solutions -->
+[SS_Solution_2025_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App.zip
+
 <!-- Labs -->
 [SS_Lab_2025_Lab00]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Labs/Spring_2025/Lab00_Lab_Practice_Submission.zip
 
