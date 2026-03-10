@@ -49,8 +49,8 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 | Names                        | 🎯 Topics            | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
 |------------------------------|-----------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
 | 00. Submission Exercise      | Git Tutorial          | -                                                                          | [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                  |
-| 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | -                                  |
-| 02. Quiz App                 | -                     | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | -                                  |
+| 01. Roll Dice App            | Stateless Vs Stateful | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | [Download][SS_Solution_2025_Lab01] |
+| 02. Quiz App                 | -                     | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | [Download][SS_Solution_2025_Lab02] |
 | 03. Expense Tracker          | -                     | [Download][SS_Example_2025_Lab03] ([GitLab][SS_GitLab_Example_2025_Lab03]) | -                                                                  | -                                  |
 | 04. Genkit Recipe App        | -                     | [Download][SS_Example_2025_Lab04] ([GitLab][SS_GitLab_Example_2025_Lab04]) | -                                                                  | -                                  |
 | 05. Expense Tracker Parallex | -                     | [Download][SS_Example_2025_Lab05] ([GitLab][SS_GitLab_Example_2025_Lab05]) | -                                                                  | -                                  |
@@ -104,6 +104,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <!-- Spring 2025 -->
 <!-- Solutions -->
 [SS_Solution_2025_Lab01]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App.zip
+[SS_Solution_2025_Lab02]: https://github.com/Fincarson/GitLab_Wu_ShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab02_Solution_Flutter_Basics_Dart_Quiz_App.zip
 
 
 <!-- Labs -->
