@@ -19,7 +19,7 @@ class ChartBar extends StatelessWidget{
           alignment: Alignment.bottomCenter,
           child: DecoratedBox(
             decoration: BoxDecoration(
-              color: colorScheme.primary.withOpacity(0.45),
+              color: colorScheme.primary.withValues(alpha: 0.45),
               borderRadius: const BorderRadius.vertical(
                 top: Radius.circular(18),
               ),

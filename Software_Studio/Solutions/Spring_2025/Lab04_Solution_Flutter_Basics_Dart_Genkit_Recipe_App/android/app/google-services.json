@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656962538249",
+    "project_id": "genkit-recipe-app-1c0c4",
+    "storage_bucket": "genkit-recipe-app-1c0c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656962538249:android:f7fd5b16fd67b46bd3a1d8",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPAf-4x9T1WyuSSMbiGhuP_JGKXMquqHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
