@@ -37,7 +37,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 |-----------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
 | 0. Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
 | 1. Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01] ([GitLab][SS_GitLab_Lab_2026_Lab01]) | [Download][SS_Solution_2026_Lab01] |
-| 2. Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab02] ([GitLab][SS_GitLab_Example_2026_Lab02]) | [Download][SS_Lab_2026_Lab02]                                      | [Download][SS_Solution_2026_Lab02] |
+| 2. Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab02] ([GitLab][SS_GitLab_Example_2026_Lab02]) | [Download][SS_Lab_2026_Lab02] ([GitLab][SS_GitLab_Lab_2026_Lab02]) | [Download][SS_Solution_2026_Lab02] |
 | 3. Expense Tracker          | Widget Theme              | [Download][SS_Example_2026_Lab03] ([GitLab][SS_GitLab_Example_2026_Lab03]) | -                                                                  | -                                  |
 
 ---
@@ -97,6 +97,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 
 [SS_GitLab_Lab_2026_Lab00]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/submission-exercise
 [SS_GitLab_Lab_2026_Lab01]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-roll-dice-app
+[SS_GitLab_Lab_2026_Lab02]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-quiz-app
 
 
 <!-- Examples -->
