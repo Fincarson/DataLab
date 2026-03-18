@@ -5,7 +5,7 @@ class QuestionsSummary extends StatelessWidget {
   const QuestionsSummary(this.summaryData, {super.key});
 
   final List<Map<String, Object>> summaryData;
-
+  
   // Question Text
   Widget questionText(Map<String, Object> data){
     return Text(

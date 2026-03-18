@@ -51,6 +51,7 @@ class _GradientContainerState extends State<GradientContainer> {
   }
 
   // Build
+  @override
   Widget build(context) {
     return Container(
       decoration: BoxDecoration(
