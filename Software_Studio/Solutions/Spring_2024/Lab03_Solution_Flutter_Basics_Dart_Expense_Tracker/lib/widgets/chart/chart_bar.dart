@@ -7,8 +7,6 @@ class ChartBar extends StatelessWidget{
   final IconData icon;
 
   Widget buildBar(BuildContext context){
-    final colorScheme = Theme.of(context).colorScheme;
-
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 6),
       child: Align(
@@ -19,7 +17,7 @@ class ChartBar extends StatelessWidget{
           alignment: Alignment.bottomCenter,
           child: DecoratedBox(
             decoration: BoxDecoration(
-              color: colorScheme.primary.withValues(alpha: 0.45),
+              color: Theme.of(context).colorScheme.primary.withValues(alpha: 0.45),
               borderRadius: const BorderRadius.vertical(
                 top: Radius.circular(18),
               ),
