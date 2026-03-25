@@ -57,7 +57,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 | Expense Tracker          | Widget Theme              | [Download][SS_Example_2025_Lab03] ([GitLab][SS_GitLab_Example_2025_Lab03]) | -                                                                  | [Download][SS_Solution_2025_Lab03] |
 | Genkit Recipe App        | -                         | [Download][SS_Example_2025_Lab04] ([GitLab][SS_GitLab_Example_2025_Lab04]) | -                                                                  | [Download][SS_Solution_2025_Lab04] |
 | Expense Tracker Parallex | Rendering & Responsive UI | [Download][SS_Example_2025_Lab05] ([GitLab][SS_GitLab_Example_2025_Lab05]) | -                                                                  | [Download][SS_Solution_2025_Lab05] |
-| Meals App                | -                         | [Download][SS_Example_2025_Lab07] ([GitLab][SS_GitLab_Example_2025_Lab07]) | -                                                                  | -                                  |
+| Meals App                | -                         | [Download][SS_Example_2025_Lab07] ([GitLab][SS_GitLab_Example_2025_Lab07]) | -                                                                  | [Download][SS_Solution_2025_Lab07] |
 | Group Todo List          | -                         | [Download][SS_Example_2025_Lab09] ([GitLab][SS_GitLab_Example_2025_Lab09]) | -                                                                  | -                                  |
 
 ---
@@ -123,6 +123,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Solution_2025_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab03_Solution_Flutter_Basics_Dart_Expense_Tracker.zip
 [SS_Solution_2025_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab04_Solution_Flutter_Basics_Dart_Genkit_Recipe_App.zip
 [SS_Solution_2025_Lab05]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab05_Solution_Flutter_Basics_Dart_Expense_Tracker_Parallax.zip
+[SS_Solution_2025_Lab07]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab07_Solution_Flutter_Basics_Dart_Meals_App.zip
 
 
 <!-- Labs -->
