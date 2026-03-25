@@ -33,13 +33,13 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 **Syllabus**: [Link](https://docs.google.com/spreadsheets/d/1dqgKE50ZhEOwN71ou4UWuvbCIewbureH3iDBqUHVZDY/edit?gid=0#gid=0)
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                       | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|-----------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
-| 0. Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
-| 1. Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01] ([GitLab][SS_GitLab_Lab_2026_Lab01]) | [Download][SS_Solution_2026_Lab01] |
-| 2. Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab02] ([GitLab][SS_GitLab_Example_2026_Lab02]) | [Download][SS_Lab_2026_Lab02] ([GitLab][SS_GitLab_Lab_2026_Lab02]) | [Download][SS_Solution_2026_Lab02] |
-| 3. Expense Tracker          | Widget Theme              | [Download][SS_Example_2026_Lab03] ([GitLab][SS_GitLab_Example_2026_Lab03]) | [Download][SS_Lab_2026_Lab03]                                      | [Download][SS_Solution_2026_Lab03] |
-| 4. Expense Tracker Prallex  | Rendering & Responsive UI | -
+| Names                    | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
+|--------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
+| Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
+| Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01] ([GitLab][SS_GitLab_Lab_2026_Lab01]) | [Download][SS_Solution_2026_Lab01] |
+| Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab02] ([GitLab][SS_GitLab_Example_2026_Lab02]) | [Download][SS_Lab_2026_Lab02] ([GitLab][SS_GitLab_Lab_2026_Lab02]) | [Download][SS_Solution_2026_Lab02] |
+| Expense Tracker          | Widget Theme              | [Download][SS_Example_2026_Lab03] ([GitLab][SS_GitLab_Example_2026_Lab03]) | [Download][SS_Lab_2026_Lab03]                                      | [Download][SS_Solution_2026_Lab03] |
+| Expense Tracker Prallex  | Rendering & Responsive UI | [Download][SS_Example_2026_Lab04] ([GitLab][SS_GitLab_Example_2026_Lab04]) | -                                                                  | -                                  |
 
 ---
 
@@ -49,16 +49,16 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2025
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                       | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|-----------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
-| 0. Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                  |
-| 1. Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | [Download][SS_Solution_2025_Lab01] |
-| 2. Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | [Download][SS_Solution_2025_Lab02] |
-| 3. Expense Tracker          | Widget Theme              | [Download][SS_Example_2025_Lab03] ([GitLab][SS_GitLab_Example_2025_Lab03]) | -                                                                  | [Download][SS_Solution_2025_Lab03] |
-| 4. Genkit Recipe App        | -                         | [Download][SS_Example_2025_Lab04] ([GitLab][SS_GitLab_Example_2025_Lab04]) | -                                                                  | [Download][SS_Solution_2025_Lab04] |
-| 5. Expense Tracker Parallex | -                         | [Download][SS_Example_2025_Lab05] ([GitLab][SS_GitLab_Example_2025_Lab05]) | -                                                                  | -                                  |
-| 7. Meals App                | -                         | [Download][SS_Example_2025_Lab07] ([GitLab][SS_GitLab_Example_2025_Lab07]) | -                                                                  | -                                  |
-| 9. Group Todo List          | -                         | [Download][SS_Example_2025_Lab09] ([GitLab][SS_GitLab_Example_2025_Lab09]) | -                                                                  | -                                  |
+| Names                    | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
+|--------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
+| Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                  |
+| Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | [Download][SS_Solution_2025_Lab01] |
+| Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | [Download][SS_Solution_2025_Lab02] |
+| Expense Tracker          | Widget Theme              | [Download][SS_Example_2025_Lab03] ([GitLab][SS_GitLab_Example_2025_Lab03]) | -                                                                  | [Download][SS_Solution_2025_Lab03] |
+| Genkit Recipe App        | -                         | [Download][SS_Example_2025_Lab04] ([GitLab][SS_GitLab_Example_2025_Lab04]) | -                                                                  | [Download][SS_Solution_2025_Lab04] |
+| Expense Tracker Parallex | Rendering & Responsive UI | [Download][SS_Example_2025_Lab05] ([GitLab][SS_GitLab_Example_2025_Lab05]) | -                                                                  | [Download][SS_Solution_2025_Lab05] |
+| Meals App                | -                         | [Download][SS_Example_2025_Lab07] ([GitLab][SS_GitLab_Example_2025_Lab07]) | -                                                                  | -                                  |
+| Group Todo List          | -                         | [Download][SS_Example_2025_Lab09] ([GitLab][SS_GitLab_Example_2025_Lab09]) | -                                                                  | -                                  |
 
 ---
 
@@ -68,17 +68,17 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 ### 🌸 Spring 2024
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
-| Names                       | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|-----------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
-| 0. Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
-| 1. Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Download][SS_Solution_2024_Lab01] |
-| 2. Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | [Download][SS_Solution_2024_Lab02] |
-| 3. Expense Tracker          | Widget Theme              | [Download][SS_Example_2024_Lab03] ([GitLab][SS_GitLab_Example_2024_Lab03]) | [Download][SS_Lab_2024_Lab03] ([GitLab][SS_GitLab_Lab_2024_Lab03]) | -                                  |
-| 4. Expense Tracker Parallax | -                         | [Download][SS_Example_2024_Lab04] ([GitLab][SS_GitLab_Example_2024_Lab04]) | [Download][SS_Lab_2024_Lab04] ([GitLab][SS_GitLab_Lab_2024_Lab04]) | -                                  |
-| 5. OpenAI API               | -                         | [Download][SS_Example_2024_Lab05] ([GitLab][SS_GitLab_Example_2024_Lab05]) | [Download][SS_Lab_2024_Lab05] ([GitLab][SS_GitLab_Lab_2024_Lab05]) | -                                  |
-| 7. Meals App                | -                         | [Download][SS_Example_2024_Lab07] ([GitLab][SS_GitLab_Example_2024_Lab07]) | [Download][SS_Lab_2024_Lab07] ([GitLab][SS_GitLab_Lab_2024_Lab07]) | -                                  |
-| 8. Meals App Animation      | -                         | [Download][SS_Example_2024_Lab08] ([GitLab][SS_GitLab_Example_2024_Lab08]) | -                                                                  | -                                  |
-| 9. Group Todo List          | -                         | [Download][SS_Example_2024_Lab09] ([GitLab][SS_GitLab_Example_2024_Lab09]) | -                                                                  | -                                  |
+| Names                    | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
+|--------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
+| Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
+| Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Download][SS_Solution_2024_Lab01] |
+| Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | [Download][SS_Solution_2024_Lab02] |
+| Expense Tracker          | Widget Theme              | [Download][SS_Example_2024_Lab03] ([GitLab][SS_GitLab_Example_2024_Lab03]) | [Download][SS_Lab_2024_Lab03] ([GitLab][SS_GitLab_Lab_2024_Lab03]) | [Download][SS_Solution_2024_Lab03] |
+| Expense Tracker Parallax | Rendering & Responsive UI | [Download][SS_Example_2024_Lab04] ([GitLab][SS_GitLab_Example_2024_Lab04]) | [Download][SS_Lab_2024_Lab04] ([GitLab][SS_GitLab_Lab_2024_Lab04]) | [Download][SS_Solution_2024_Lab04] |
+| OpenAI API               | -                         | [Download][SS_Example_2024_Lab05] ([GitLab][SS_GitLab_Example_2024_Lab05]) | [Download][SS_Lab_2024_Lab05] ([GitLab][SS_GitLab_Lab_2024_Lab05]) | -                                  |
+| Meals App                | -                         | [Download][SS_Example_2024_Lab07] ([GitLab][SS_GitLab_Example_2024_Lab07]) | [Download][SS_Lab_2024_Lab07] ([GitLab][SS_GitLab_Lab_2024_Lab07]) | -                                  |
+| Meals App Animation      | -                         | [Download][SS_Example_2024_Lab08] ([GitLab][SS_GitLab_Example_2024_Lab08]) | -                                                                  | -                                  |
+| Group Todo List          | -                         | [Download][SS_Example_2024_Lab09] ([GitLab][SS_GitLab_Example_2024_Lab09]) | -                                                                  | -                                  |
 
 ---
 
@@ -122,6 +122,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Solution_2025_Lab02]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab02_Solution_Flutter_Basics_Dart_Quiz_App.zip
 [SS_Solution_2025_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab03_Solution_Flutter_Basics_Dart_Expense_Tracker.zip
 [SS_Solution_2025_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab04_Solution_Flutter_Basics_Dart_Genkit_Recipe_App.zip
+[SS_Solution_2025_Lab05]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2025/Lab05_Solution_Flutter_Basics_Dart_Expense_Tracker_Parallax.zip
 
 
 <!-- Labs -->
@@ -154,6 +155,8 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Solution_2024_Lab00]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab00_Solution_Submission_Exercise.zip
 [SS_Solution_2024_Lab01]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App.zip
 [SS_Solution_2024_Lab02]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab02_Solution_Flutter_Basics_Dart_Quiz_App.zip
+[SS_Solution_2024_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab03_Solution_Flutter_Basics_Dart_Expense_Tracker.zip
+[SS_Solution_2024_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2024/Lab04_Solution_Flutter_Basics_Dart_Expense_Tracker_Parallax.zip
 
 
 <!-- Labs -->

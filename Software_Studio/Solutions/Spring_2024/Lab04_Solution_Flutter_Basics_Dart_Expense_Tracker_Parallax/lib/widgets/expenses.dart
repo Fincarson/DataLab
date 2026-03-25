@@ -59,7 +59,7 @@ class _ExpensesState extends State<Expenses> {
   void _openTutorialScreen() {
     Navigator.of(context).push(
       MaterialPageRoute(
-        builder: (ctx) => const InfoPage(),
+        builder: (ctx) => const TutorialScreen(),
       ),
     );
   }
