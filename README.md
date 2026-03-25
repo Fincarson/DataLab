@@ -1,7 +1,7 @@
 # 🦊 GitLab NTHU: 吳尚鴻 Wu, Shan-Hung
 <p>
   <a href="https://shwu10.cs.nthu.edu.tw/courses">
-    <img src="00_Miscellaneous/Images/GitLab.webp" width="850" alt="GitLab">
+    <img src="_Miscellaneous/Images/GitLab.webp" width="850" alt="GitLab">
   </a>
 </p>
 
@@ -34,7 +34,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
 | Names                    | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|--------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
+|--------------------------|---------------------------|:--------------------------------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------:|
 | Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
 | Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01] ([GitLab][SS_GitLab_Lab_2026_Lab01]) | [Download][SS_Solution_2026_Lab01] |
 | Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2026_Lab02] ([GitLab][SS_GitLab_Example_2026_Lab02]) | [Download][SS_Lab_2026_Lab02] ([GitLab][SS_GitLab_Lab_2026_Lab02]) | [Download][SS_Solution_2026_Lab02] |
@@ -50,7 +50,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
 | Names                    | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|--------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
+|--------------------------|---------------------------|:--------------------------------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------:|
 | Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2025_Lab00] ([GitLab][SS_GitLab_Lab_2025_Lab00]) | -                                  |
 | Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2025_Lab01] ([GitLab][SS_GitLab_Example_2025_Lab01]) | -                                                                  | [Download][SS_Solution_2025_Lab01] |
 | Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2025_Lab02] ([GitLab][SS_GitLab_Example_2025_Lab02]) | -                                                                  | [Download][SS_Solution_2025_Lab02] |
@@ -69,7 +69,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 <details close><summary><strong>Dropdown Menu</strong></summary>
 
 | Names                    | 🎯 Topics                | 📄 Examples                                                                | 💻 Labs                                                           | ✅ Solutions                       |
-|--------------------------|---------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|:----------------------------------:|
+|--------------------------|---------------------------|:--------------------------------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------:|
 | Submission Exercise      | Git Tutorial              | -                                                                          | [Download][SS_Lab_2024_Lab00] ([GitLab][SS_GitLab_Lab_2024_Lab00]) | [Download][SS_Solution_2024_Lab00] |
 | Roll Dice App            | Basic Darts and Flutter   | [Download][SS_Example_2024_Lab01] ([GitLab][SS_GitLab_Example_2024_Lab01]) | [Download][SS_Lab_2024_Lab01] ([GitLab][SS_GitLab_Lab_2024_Lab01]) | [Download][SS_Solution_2024_Lab01] |
 | Quiz App                 | Basic Darts and Flutter   | [Download][SS_Example_2024_Lab02] ([GitLab][SS_GitLab_Example_2024_Lab02]) | [Download][SS_Lab_2024_Lab02] ([GitLab][SS_GitLab_Lab_2024_Lab02]) | [Download][SS_Solution_2024_Lab02] |
@@ -96,7 +96,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Lab_2026_Lab00]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab00_Lab_Submission_Exercise.zip
 [SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice_App.zip
 [SS_Lab_2026_Lab02]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab02_Lab_Flutter_Basics_Dart_Quiz_App.zip
-[SS_Lab_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/blob/main/Software_Studio/Labs/Spring_2026/Lab03_Flutter_Basics_Dart_Expense_Tracker.zip
+[SS_Lab_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab03_Flutter_Basics_Dart_Expense_Tracker.zip
 
 [SS_GitLab_Lab_2026_Lab00]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/submission-exercise
 [SS_GitLab_Lab_2026_Lab01]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-roll-dice-app
