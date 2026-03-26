@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "todolist-new-666c7",
+          "configurations": {
+            "web": "1:872030572996:web:e24bae3b52e1e1ca1f9491"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore/firestore.rules",
+    "indexes": "firestore/firestore.indexes.json"
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

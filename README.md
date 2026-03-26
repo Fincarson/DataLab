@@ -27,6 +27,9 @@ If this repo helps you learn the material more effectively and build stronger fu
 
 ## 📱 Software Studio
 In Software Studio, the course work commonly focuses on Flutter and Dart. Using Flutter’s UI framework and Dart as the programming language. <br>
+
+Other repositories:
+- [MPuppettz](https://github.com/MPuppettz/Flutter-Firebase-Projects)
 <br>
 
 ### 🌸 Spring 2026
@@ -38,8 +41,8 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 | Submission Exercise      | Git Tutorial                  | -                                                                          | [Download][SS_Lab_2026_Lab00] ([GitLab][SS_GitLab_Lab_2026_Lab00]) | [Download][SS_Solution_2026_Lab00] |
 | Roll Dice App            | Basic Darts and Flutter       | [Download][SS_Example_2026_Lab01] ([GitLab][SS_GitLab_Example_2026_Lab01]) | [Download][SS_Lab_2026_Lab01] ([GitLab][SS_GitLab_Lab_2026_Lab01]) | [Download][SS_Solution_2026_Lab01] |
 | Quiz App                 | Basic Darts and Flutter       | [Download][SS_Example_2026_Lab02] ([GitLab][SS_GitLab_Example_2026_Lab02]) | [Download][SS_Lab_2026_Lab02] ([GitLab][SS_GitLab_Lab_2026_Lab02]) | [Download][SS_Solution_2026_Lab02] |
-| Expense Tracker          | Widget Theme                  | [Download][SS_Example_2026_Lab03] ([GitLab][SS_GitLab_Example_2026_Lab03]) | [Download][SS_Lab_2026_Lab03]                                      | [Download][SS_Solution_2026_Lab03] |
-| Expense Tracker Prallex  | Rendering & Responsive UI     | [Download][SS_Example_2026_Lab04] ([GitLab][SS_GitLab_Example_2026_Lab04]) | -                                                                  | -                                  |
+| Expense Tracker          | Widget Theme                  | [Download][SS_Example_2026_Lab03] ([GitLab][SS_GitLab_Example_2026_Lab03]) | [Download][SS_Lab_2026_Lab03] ([GitLab][SS_GitLab_Lab_2026_Lab03]) | [Download][SS_Solution_2026_Lab03] |
+| Expense Tracker Prallex  | Rendering & Responsive UI     | [Download][SS_Example_2026_Lab04] ([GitLab][SS_GitLab_Example_2026_Lab04]) | [Download][SS_Lab_2026_Lab04] ([GitLab][SS_GitLab_Lab_2026_Lab04]) | -                                  |
 
 ---
 
@@ -97,11 +100,14 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 [SS_Lab_2026_Lab00]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab00_Lab_Submission_Exercise.zip
 [SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice_App.zip
 [SS_Lab_2026_Lab02]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab02_Lab_Flutter_Basics_Dart_Quiz_App.zip
-[SS_Lab_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab03_Flutter_Basics_Dart_Expense_Tracker.zip
+[SS_Lab_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab03_Lab_Flutter_Basics_Dart_Expense_Tracker.zip
+[SS_Lab_2026_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab03_Lab_Flutter_Basics_Dart_Expense_Tracker.zip
 
 [SS_GitLab_Lab_2026_Lab00]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/submission-exercise
 [SS_GitLab_Lab_2026_Lab01]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-roll-dice-app
 [SS_GitLab_Lab_2026_Lab02]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-quiz-app
+[SS_GitLab_Lab_2026_Lab03]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker
+[SS_GitLab_Lab_2026_Lab04]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker-parallax
 
 
 <!-- Examples -->
