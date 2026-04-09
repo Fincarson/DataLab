@@ -43,6 +43,8 @@ Other repositories:
 | Quiz App                 | Basic Darts and Flutter       | [Download][SS_Example_2026_Lab02] ([GitLab][SS_GitLab_Example_2026_Lab02]) | [Download][SS_Lab_2026_Lab02] ([GitLab][SS_GitLab_Lab_2026_Lab02]) | [Download][SS_Solution_2026_Lab02] |
 | Expense Tracker          | Widget Theme                  | [Download][SS_Example_2026_Lab03] ([GitLab][SS_GitLab_Example_2026_Lab03]) | [Download][SS_Lab_2026_Lab03] ([GitLab][SS_GitLab_Lab_2026_Lab03]) | [Download][SS_Solution_2026_Lab03] |
 | Expense Tracker Prallex  | Rendering & Responsive UI     | [Download][SS_Example_2026_Lab04] ([GitLab][SS_GitLab_Example_2026_Lab04]) | [Download][SS_Lab_2026_Lab04] ([GitLab][SS_GitLab_Lab_2026_Lab04]) | -                                  |
+| OpenAI API               | AI & Agents                   | [Download][SS_Example_2026_Lab05] ([GitLab][SS_GitLab_Example_2026_Lab05]) | [Download][SS_Lab_2026_Lab05] ([GitLab][SS_GitLab_Lab_2026_Lab05]) | [Download][SS_Solution_2026_Lab05] |
+
 
 ---
 
@@ -95,19 +97,22 @@ Other repositories:
 [SS_Solution_2026_Lab01]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab01_Solution_Flutter_Basics_Dart_Roll_Dice_App.zip
 [SS_Solution_2026_Lab02]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab02_Solution_Flutter_Basics_Dart_Quiz_App.zip
 [SS_Solution_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab03_Solution_Flutter_Basics_Dart_Expense_Tracker.zip
+[SS_Solution_2026_Lab05]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Solutions/Spring_2026/Lab05_Solution_Flutter_Basics_Dart_OpenAI_API.zip  
 
 <!-- Labs -->
 [SS_Lab_2026_Lab00]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab00_Lab_Submission_Exercise.zip
 [SS_Lab_2026_Lab01]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab01_Lab_Flutter_Basics_Dart_Roll_Dice_App.zip
 [SS_Lab_2026_Lab02]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab02_Lab_Flutter_Basics_Dart_Quiz_App.zip
 [SS_Lab_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab03_Lab_Flutter_Basics_Dart_Expense_Tracker.zip
-[SS_Lab_2026_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab03_Lab_Flutter_Basics_Dart_Expense_Tracker.zip
+[SS_Lab_2026_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab04_Lab_Flutter_Basics_Dart_Expense_Tracker_Parallax.zip
+[SS_Lab_2026_Lab05]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Labs/Spring_2026/Lab05_Lab_Flutter_Basics_Dart_OpenAI_API.zip
 
 [SS_GitLab_Lab_2026_Lab00]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/submission-exercise
 [SS_GitLab_Lab_2026_Lab01]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-roll-dice-app
 [SS_GitLab_Lab_2026_Lab02]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-quiz-app
 [SS_GitLab_Lab_2026_Lab03]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker
 [SS_GitLab_Lab_2026_Lab04]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker-parallax
+[SS_GitLab_Lab_2026_Lab05]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-openai-api
 
 
 <!-- Examples -->
@@ -115,11 +120,13 @@ Other repositories:
 [SS_Example_2026_Lab02]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab02_Example_Flutter_Basics_Dart_Quiz_App.zip
 [SS_Example_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab03_Example_Flutter_Basics_Dart_Expense_Tracker.zip
 [SS_Example_2026_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab04_Example_Flutter_Basics_Dart_Expense_Tracker_Parallax.zip
+[SS_Example_2026_Lab05]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab05_Example_Flutter_Basics_Dart_OpenAI_API.zip
 
 [SS_GitLab_Example_2026_Lab01]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-roll-dice-app-example
 [SS_GitLab_Example_2026_Lab02]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-quiz-app-example
 [SS_GitLab_Example_2026_Lab03]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker-example
 [SS_GitLab_Example_2026_Lab04]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker-parallax-example
+[SS_GitLab_Example_2026_Lab05]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-openai-api-example
 
 
 
