@@ -44,7 +44,8 @@ Other repositories:
 | Expense Tracker          | Widget Theme                  | [Download][SS_Example_2026_Lab03] ([GitLab][SS_GitLab_Example_2026_Lab03]) | [Download][SS_Lab_2026_Lab03] ([GitLab][SS_GitLab_Lab_2026_Lab03]) | [Download][SS_Solution_2026_Lab03] |
 | Expense Tracker Prallex  | Rendering & Responsive UI     | [Download][SS_Example_2026_Lab04] ([GitLab][SS_GitLab_Example_2026_Lab04]) | [Download][SS_Lab_2026_Lab04] ([GitLab][SS_GitLab_Lab_2026_Lab04]) | -                                  |
 | OpenAI API               | AI & Agents                   | [Download][SS_Example_2026_Lab05] ([GitLab][SS_GitLab_Example_2026_Lab05]) | [Download][SS_Lab_2026_Lab05] ([GitLab][SS_GitLab_Lab_2026_Lab05]) | [Download][SS_Solution_2026_Lab05] |
-
+| Meals App                | State Management & Navigation | [Download][SS_Example_2026_Lab06] ([GitLab][SS_GitLab_Example_2026_Lab06]) | -                                                                  | -                                  |
+| Meals App Animation      | Animations                    | [Download][SS_Example_2026_Lab08] ([GitLab][SS_GitLab_Example_2026_Lab08]) | -                                                                  | -                                  |
 
 ---
 
@@ -121,12 +122,16 @@ Other repositories:
 [SS_Example_2026_Lab03]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab03_Example_Flutter_Basics_Dart_Expense_Tracker.zip
 [SS_Example_2026_Lab04]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab04_Example_Flutter_Basics_Dart_Expense_Tracker_Parallax.zip
 [SS_Example_2026_Lab05]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab05_Example_Flutter_Basics_Dart_OpenAI_API.zip
+[SS_Example_2026_Lab06]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab06_Example_Flutter_Basics_Dart_Meals_App.zip
+[SS_Example_2026_Lab08]: https://github.com/Fincarson/GitLab_WuShanHung/raw/main/Software_Studio/Examples/Spring_2026/Lab08_Example_Flutter_Basic_Dart_Meals_App_Animation.zip
 
 [SS_GitLab_Example_2026_Lab01]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-roll-dice-app-example
 [SS_GitLab_Example_2026_Lab02]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-quiz-app-example
 [SS_GitLab_Example_2026_Lab03]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker-example
 [SS_GitLab_Example_2026_Lab04]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-expense-tracker-parallax-example
 [SS_GitLab_Example_2026_Lab05]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-openai-api-example
+[SS_GitLab_Example_2026_Lab06]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basics-dart-meals-app-example
+[SS_GitLab_Example_2026_Lab08]: https://shwu10.cs.nthu.edu.tw/courses/software-studio/2026-spring/lab-flutter-basic-dart-meals-app-animation-example
 
 
 
