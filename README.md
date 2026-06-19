@@ -30,6 +30,7 @@ In Software Studio, the course work commonly focuses on Flutter and Dart. Using 
 
 Other repositories:
 - [MPuppettz](https://github.com/MPuppettz/Flutter-Firebase-Projects)
+- [jthiadi](https://github.com/jthiadi/Dart-Flutter-Firebase-Basics)
 <br>
 
 ### 🌸 Spring 2026
