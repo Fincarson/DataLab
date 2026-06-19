@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".view.StartFragment">
+
+    <data>
+
+        <variable
+            name="startFragment"
+            type="com.example.weathermood.view.StartFragment" />
+
+        <variable
+            name="viewModel"
+            type="com.example.weathermood.view.StartViewModel" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/weather_description"
+            android:layout_width="0dp"
+            android:layout_height="32dp"
+            android:gravity="center"
+            android:text="@{viewModel.weatherDescription.toString()}"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Weather Description" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/button_get_country_weather"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Get Country Weather"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/weather_description" />
+
+        <TextView
+            android:id="@+id/tv_current_weather"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="@{viewModel.currentWeather.toString()}"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/button_get_country_weather"
+            tools:text="Weather Description" />
+
+      <com.google.android.material.textfield.TextInputEditText
+          android:id="@+id/edittext_country"
+          android:layout_width="0dp"
+          android:hint="country"
+          android:layout_height="48dp"
+          android:gravity="center"
+          android:textSize="16sp"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toBottomOf="@+id/tv_current_weather" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

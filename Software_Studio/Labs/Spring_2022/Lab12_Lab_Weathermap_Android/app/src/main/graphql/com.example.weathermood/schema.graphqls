@@ -1,0 +1,68 @@
+type Friends {
+    name: String!
+    friends: [Friends]
+}
+
+scalar Date
+
+type Query {
+    version: String!
+    weather(country: String!): CountryWeather!
+    hello(number: Int!): String!
+    friends: Friends!
+}
+
+type Weather {
+    id: Int
+    main: String
+    description: String
+    icon: String
+}
+
+type Clouds {
+    all: Int
+}
+
+type Sys {
+    country: String
+}
+
+type Wind {
+    speed: Float
+    deg: Int
+}
+
+type Main {
+    temp: Float
+    feels_like: Float
+    temp_min: Float
+    temp_max: Float
+    pressure: Int
+    humidity: Int
+}
+
+type Coord {
+    lat: Float
+    lon: Float
+}
+
+type List {
+    id: Int
+    name: String
+    dt: Int
+    rain: String
+    snow: String
+    weather: [Weather]
+    clouds: Clouds
+    sys: Sys
+    wind: Wind
+    main: Main
+    coord: Coord
+}
+
+type CountryWeather {
+    message: String
+    cod: String
+    count: Int
+    list: [List]
+}

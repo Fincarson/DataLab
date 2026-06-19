@@ -1,0 +1,5 @@
+# Friend Type
+type Friends {
+    name: String!
+    friends: [Friends]
+}

@@ -1,0 +1,8 @@
+# Custom Scalars
+scalar Date
+
+type Query {
+  # Version
+  version: String!
+  
+}

@@ -1,0 +1,16 @@
+# Custom Scalars
+scalar Date
+
+type Query {
+  # Version
+  version: String!
+
+  # Country Weather
+  weather(country: String!) : CountryWeather!
+
+  # Input Example
+  hello(number: Int!) : String!
+
+  # Friend
+  friends: Friends!
+}

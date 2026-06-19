@@ -1,0 +1,17 @@
+query WeatherQuery($country: String!) {
+    weather(country: $country) {
+        message
+        cod
+        count
+        list {
+            id
+            name
+            dt
+            rain
+            snow
+            weather {
+                description
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+# Country Weather Type
+
+type CountryWeather {
+  message: String
+  cod: String
+  count: Int
+}
