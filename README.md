@@ -10,7 +10,13 @@ GitLab is a DevOps platform that provides Git repository hosting plus collaborat
 
 This repository documents and archives materials from a course, including Software Studio and Database, which use a private GitLab instance as an assignment platform. <br>
 This repo collects past templates/problems and (where applicable) my completed implementations for learning, review, and reference. <br>
-<br> <br>
+<br>
+
+- Website: [Link](https://www.cs.nthu.edu.tw/~shwu/)
+- GitLab: [Link](https://shwu10.cs.nthu.edu.tw/courses)
+
+<br>
+<br>
 
 
 ## ⚠️ !!! DISCLAIMER !!!
@@ -101,7 +107,7 @@ This section archives supporting resources, homework templates, and project file
 ---
 
 </details>
-<br>
+<br> <br>
 
 
 ## 📱 Software Studio
@@ -171,11 +177,6 @@ Other repositories:
 
 </details>
 <br>
-
-## 📚 About
-DataLab is an unofficial, student-maintained archive created for learning, review, and historical reference. Credit for the original course materials, assignment specifications, starter code, examples, and supporting documentation belongs to the respective course instructors, teaching assistants, and authors. Completed solutions and other additions are the work of this repository's contributors unless stated otherwise.
-Website: [Link](https://www.cs.nthu.edu.tw/~shwu/)
-GitLab: [Link](https://shwu10.cs.nthu.edu.tw/courses)
 
 
 
